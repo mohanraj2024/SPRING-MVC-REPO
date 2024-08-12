@@ -10,6 +10,8 @@ import org.springframework.stereotype.Repository;
 
 import com.spring.model.Person;
 
+
+//added repository
 @Repository
 public class PersonDAOImpl implements PersonDAO {
 	
